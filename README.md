@@ -1,4 +1,4 @@
-# Correct Fisheye Distortion of the first Chinese Mars Image
+# Correct Fisheye Distortion for the first Chinese Mars Image
 热烈祝贺中国首次火星探测天问一号任务探测器发回火星照片
 
 ## Requirements
