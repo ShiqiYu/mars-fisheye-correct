@@ -15,6 +15,11 @@ If you compiled the program successfully, you can run it:
 ```bash
 ./fisheye-correct chinese-1st-mars-image.jpg
 ```
+
+```bash
+./fisheye-correct-video chinese-1st-mars-video.mp4
+```
+
 The result file will be stored in the current directory.
 
 ## The result and the input image
